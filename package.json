@@ -1,12 +1,9 @@
 {
    "name": "@iyashasgowda/color-harmony",
-   "version": "0.0.0",
+   "version": "0.0.2",
    "description": "Color harmony is a basic color theory technique for combining colors. This technique suggests potential relationships between colors that we can use to convey our messages or create a particular universe.",
    "main": "app.js",
-   "scripts": {
-      "deploy": "npm run minify --silent && npm publish",
-      "minify": "uglifyjs src/*.js --compress --mangle --output lib/color-harmony.js"
-   },
+   "scripts": {},
    "repository": {
       "type": "git",
       "url": "git+https://github.com/iyashasgowda/color-harmony.git"

@@ -1,1 +1,1 @@
-module.exports = require('./lib/color-harmony');
+module.exports = require('./src/harmony');
